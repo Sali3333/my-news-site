@@ -22,7 +22,7 @@ body{
     top: 0;
     z-index: 10;
     backdrop-filter: saturate(1.2) blur(8px);
-    background: rgba(221, 53, 31, 0.5);
+    background: rgba(50, 31, 221, 0.5);
     border-bottom: 10px solid rgba(29, 45, 70, 0.6);
 }
 .nav {
@@ -93,7 +93,7 @@ body{
     align-items: center;
 }
 .cards{
-    background: rgba(25, 33, 54, 0.8);
+    background: rgba(40, 140, 65, 0.8);
     border: 1px solid rgba(29, 45, 70, 0.6);
     border-radius: var(--space);
     box-shadow: 0 6px 24px rgba(0, 0, 0, .2);
